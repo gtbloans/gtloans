@@ -1,7 +1,61 @@
 
 
 img{
+    margin: 0 
+
+img{
     margin: 0 auto;
+    padding-left: 23%;
+}
+
+h4{
+
+}
+.mee{
+    margin: 0 auto;
+    padding-right: 20%;
+}
+
+.category{
+    text-align: center;
+    padding-right: 10%;
+}
+
+
+.form-check-input{
+    padding-right: 10%;
+}
+.tee{
+	text-align: center;
+	padding: 80px 0;
+}
+
+.tee form{
+	max-width: 540px;
+    margin: 0 auto;
+   }
+
+.tee input{
+	width: 50%;
+	margin: 15px auto;
+    padding: 9px;
+}  
+
+.btn-primary{
+    background-color: #f96332;
+    color: #FFFFFF;
+}
+
+.btn-primary:hover{
+    color: #FFFFFF;
+}
+
+
+footer{
+    background-color: #e64b18;
+    text-align: center;
+}
+auto;
     padding-left: 23%;
 }
 
